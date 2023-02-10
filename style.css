@@ -1,4 +1,8 @@
 * {
   border: solid 1px #f00;
+}
+
+.path {
+  stroke-width: 5px;
   stroke: #f00;
 }
